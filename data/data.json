@@ -1,0 +1,67 @@
+[
+    {
+      "id": "1",
+      "titulo": "Dagon",
+      "genero": "terror",
+      "año": 1917,
+      "descripcion": "El narrador relata un encuentro sobrenatural en el mar después de una experiencia traumática en la Primera Guerra Mundial.",
+      "foto_de_portada": "https://www.storytel.com/images/e/640x640/0001384629.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "La maldición que cayó sobre Sarnath",
+      "genero": "horror-cosmico",
+      "año": 1920,
+      "descripcion": "La historia de la fundación de la ciudad de Sarnath y su terrible destino después de profanar un antiguo templo.",
+      "foto_de_portada": "https://pictures.abebooks.com/isbn/9788421743010-es.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "La búsqueda de Iranon",
+      "genero": "misterio",
+      "año": 1921,
+      "descripcion": "Un poeta inmortal busca una tierra mítica que recuerda de su juventud en una ciudad perdida.",
+      "foto_de_portada": "https://covers.storytel.com/jpg-640/9782291003762.1fa33122-076f-4543-af2e-7c3d81662fc6?quality=70"
+    },
+    {
+      "id": "4",
+      "titulo": "La llamada de Cthulhu",
+      "genero": "horror-cosmico",
+      "año": 1926,
+      "descripcion": "Una de las obras más famosas de Lovecraft, que presenta al antiguo dios Cthulhu.",
+      "foto_de_portada": "https://m.media-amazon.com/images/I/4122QDduTYL.jpg"
+    },
+    {
+      "id": "5",
+      "titulo": "El color que cayó del cielo",
+      "genero": "terror",
+      "año": 1927,
+      "descripcion": "Una extraña caída de meteoritos afecta a una granja y su entorno, desatando horrores cósmicos.",
+      "foto_de_portada": "https://imgs.search.brave.com/ZK6KztiqkZjHYd2oPiV2deORiQ926Q8SupZU9XhyyOc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9nbG9i/YWxib29rY2x1Yi5z/My5hbWF6b25hd3Mu/Y29tL3Jlc291cmNl/cy8zNjc1NDQ1L2Vs/X2NvbG9yX3F1ZV9j/YXlvX2RlbF9jaWVs/by9jb3Zlci5qcGc"
+    },
+    {
+      "id": "6",
+      "titulo": "El horror de Dunwich",
+      "genero": "horror-cosmico",
+      "año": 1929,
+      "descripcion": "Una aldea rural esconde un horror innombrable y una familia maldita.",
+      "foto_de_portada": "https://storage.googleapis.com/media365-live.appspot.com/b4f85bf3-c5ba-4c52-a2f6-452b1b157b8d/e5bd0a0f-4fda-47dc-b99b-0257b637dbe6/a14c1540-a3e2-4152-9efd-a1f01fd603ea.jpg"
+    },
+    {
+      "id": "7",
+      "titulo": "Las sombras sobre Innsmouth",
+      "genero": "horror-cosmico",
+      "año": 1931,
+      "descripcion": "Un hombre visita el siniestro pueblo de Innsmouth y descubre sus terribles secretos.",
+      "foto_de_portada": "https://imagessl8.casadellibro.com/a/l/t5/28/9788418168628.jpg"
+    },
+    {
+      "id": "8",
+      "titulo": "La sombra fuera del tiempo",
+      "genero": "misterio",
+      "año": 1934,
+      "descripcion": "Un profesor universitario experimenta saltos en el tiempo y se enfrenta a seres de otros mundos.",
+      "foto_de_portada": "https://imag.lecturalia.com/blog/images/2014/01/id-23304-sombra.jpg"
+    }
+  ]
+  

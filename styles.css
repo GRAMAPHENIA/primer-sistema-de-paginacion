@@ -1,0 +1,143 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #111921;
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+#content {
+  margin-top: 0;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+#pagination {
+  bottom: 0;
+  left: 0;
+  background: #1e2747;
+  padding-inline: 15px;
+  padding-block: 10px;
+  margin: 10px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pagination-btn {
+  display: inline-block;
+  background: #47527d;
+  padding: 8px 12px;
+  text-decoration: none;
+  color: #ffffff;
+  cursor: pointer;
+  border-radius: 100px;
+}
+
+.pagination-btn:hover {
+  background-color: #ffbd61;
+  color: #111921;
+  transition: ease-in 0.1s;
+}
+
+.imagen {
+  width: 150px;
+  border-radius: 6px;
+  background: #f7c989;
+  padding: 1px;
+}
+
+.imagen.loaded {
+  opacity: 1;
+}
+
+.terror {
+  color: #ffbd61;
+  font-size: 76px;
+}
+
+.titulo-portada {
+  color: #9bb5cf;
+  font-size: 20px;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+
+.parrafo {
+  max-width: 400px;
+  color: #d9e1f1;
+  margin-top: 10px;
+}
+
+.contenedor-parrafo {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  font-size: 23px;
+  justify-content: space-between;
+  align-self: flex-end;
+  height: 100%; 
+}
+
+.book {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: full;
+}
+
+.books {
+  width: 100%;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media (max-width: 720px) {
+  #content {
+    display: block;
+  }
+
+  .books {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .contenedor-parrafo {
+    text-align: center;
+    display: flex;
+    font-size: 23px;
+    justify-content: center;
+    align-self: flex-end;
+  }
+
+  .imagen {
+    width: 100%;
+    border-radius: 6px;
+    background: #f7c989;
+    padding: 1px;
+  }
+
+  .books .book {
+    align-items: center;
+  }
+}
+
+.paginacion-centro {
+  padding-inline: .5rem;
+}
